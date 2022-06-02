@@ -1,7 +1,6 @@
 {
-  "name": "syntsa",
-  "private": true,
-  "version": "0.0.0",
+  "name": "s-01",
+  "version": "0.1.0",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
@@ -20,5 +19,11 @@
     "vite": "^2.9.9",
     "vite-plugin-fonts": "^0.4.0",
     "vue-tsc": "^0.34.7"
+  },
+  "license": "MIT",
+  "author": {
+    "name" : "Lauri Hälinen",
+    "email" : "lauri.halinen@iki.fi",
+    "url" : "https://h-line.github.io"
   }
 }
