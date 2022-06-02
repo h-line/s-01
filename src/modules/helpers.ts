@@ -1,0 +1,1 @@
+export const velocityToGain = (velocity: number) => velocity / 127;
