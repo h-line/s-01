@@ -414,7 +414,7 @@
   </main>
 
   <footer>
-    <a href="https://h-line.github.io">
+    <a href="https://github.com/h-line/">
       Made by h-line
     </a>
   </footer>

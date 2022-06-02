@@ -4,6 +4,7 @@ import ViteFonts from 'vite-plugin-fonts'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/s-01/',
   build: {
     outDir: 'docs'
   },
